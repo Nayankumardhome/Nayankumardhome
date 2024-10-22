@@ -31,7 +31,6 @@
 #### Dev Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" title="spring" width="40" height="40"/>
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fspringboot&psig=AOvVaw1jplzmCGkM1u4UvRRbKqL1&ust=1729662617256000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjV57-loYkDFQAAAAAdAAAAABAE)" alt="springboot" title="springboot" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" title="hibernate" width="40" height="40"/>
 </p>
 

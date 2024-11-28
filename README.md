@@ -31,7 +31,8 @@
 #### Dev Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" title="spring" width="40" height="40"/>
-  <img src="https://images.javatpoint.com/springboot/images/spring-boot-tutorial.jpg" alt="spring boot" title="hibernate" width="40" height="40"/>
+  <img src="https://images.javatpoint.com/springboot/images/spring-boot-tutorial.jpg" alt="spring boot" title="spring boot" width="40" height="40"/>
+  <img src="https://www.javacodegeeks.com/wp-content/uploads/2014/07/spring-security-project.png.webp" alt="spring-security" title="spring security" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" title="hibernate" width="40" height="40"/>
 </p>
 

@@ -31,7 +31,7 @@
 #### Dev Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" title="spring" width="40" height="40"/>
-  <img src="[https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg](https://www.google.com/search?sca_esv=23b5c302cf261505&rlz=1C1UEAD_enIN1068IN1068&sxsrf=ADLYWILMlxsOiU3aJNcananfI-JbKbdWgQ:1732777271370&q=Spring+Boot&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULPxevfrq-oWFOTlJBVm5K8SsWbi5O_Vx9g5SMCtMkhHyyWblBSkq55SsWLi4OkLxpZV75KxZeLm4Qx9Aox7Csogyu2awyvrDiFQsPFxdYaVV8kVEeXNLUwDQ5By6Zkl5sboTQaVKSZVq1iJU7uKAoMy9dwSk_v-QWmyRD99Me48D4kIJ3Ks0HpQ7tWfLU5Oe62WXeqxZxiAWk5hfkpCok5hTnKxSnJhYlZyik5Ret4GAEAHrAnk7oAAAA&sa=X&ved=2ahUKEwjqoPCtuv6JAxXcm68BHRPDMHIQs9oBKAB6BAgpEAk&biw=1536&bih=730&dpr=1.25#)" alt="spring boot" title="hibernate" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg](https://www.google.com/search?sca_esv=23b5c302cf261505&rlz=1C1UEAD_enIN1068IN1068&sxsrf=ADLYWILMlxsOiU3aJNcananfI-JbKbdWgQ:1732777271370&q=Spring+Boot&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULPxevfrq-oWFOTlJBVm5K8SsWbi5O_Vx9g5SMCtMkhHyyWblBSkq55SsWLi4OkLxpZV75KxZeLm4Qx9Aox7Csogyu2awyvrDiFQsPFxdYaVV8kVEeXNLUwDQ5By6Zkl5sboTQaVKSZVq1iJU7uKAoMy9dwSk_v-QWmyRD99Me48D4kIJ3Ks0HpQ7tWfLU5Oe62WXeqxZxiAWk5hfkpCok5hTnKxSnJhYlZyik5Ret4GAEAHrAnk7oAAAA&sa=X&ved=2ahUKEwjqoPCtuv6JAxXcm68BHRPDMHIQs9oBKAB6BAgpEAk&biw=1536&bih=730&dpr=1.25#" alt="spring boot" title="hibernate" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" title="hibernate" width="40" height="40"/>
 </p>
 

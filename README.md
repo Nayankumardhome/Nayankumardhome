@@ -85,12 +85,12 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/{Nayankumardhome}/count.svg" />
 </p>
-![Visitor Count](https://profile-counter.glitch.me/{Nayankumardhome}/count.svg)
 
 ---
 
 ## 😂 Random Joke
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api" />
+  <img src="https://readme-jokes.vercel.app/api" id="joke-img" />
+  <br/>
+  <button onclick="document.getElementById('joke-img').src='https://readme-jokes.vercel.app/api?' + new Date().getTime();">Change Joke</button>
 </p>
-![Jokes Card](https://readme-jokes.vercel.app/api)

@@ -89,10 +89,10 @@
 ---
 
 ## 😂 Random Joke
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" id="joke-img" />
-  <br/>
-  <a href="https://readme-jokes.vercel.app/api" target="_blank">
-    <img src="https://img.shields.io/badge/Click%20to%20Change%20Joke-blue?style=for-the-badge" alt="Change Joke"/>
-  </a>
-</p>
+<p align="centre"><b> Here is a random joke that'll make you laugh!</b></p>
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+<details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+<br>
+  </p>

@@ -15,22 +15,25 @@
 
 ## 🚀 Languages and Tools
 
-### **Programming Language Stack**
+### **Programming Languages**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+</p>
+
+### **Frontend Technologies**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
 </p>
 
-### **Database Stack**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</p>
-
-### **Development Stack**
+### **Backend & Frameworks**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
   <img src="https://i.postimg.cc/q701C56G/spring-boot-logo.png" alt="Spring Boot" width="40" height="40"/>
@@ -38,34 +41,25 @@
   <img src="https://www.javacodegeeks.com/wp-content/uploads/2014/07/spring-security-project.png.webp" alt="Spring Security" width="40" height="40"/>
 </p>
 
+### **Database & Tools**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+</p>
+
 ### **Project Management & Version Control**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="JIRA" width="40" height="40"/>
 </p>
 
 ### **Favorite IDEs & Tools**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
 </p>
-
----
-
-## 🏆 Projects
-
-### **1. E-commerce Platform (Spring Boot, Thymeleaf, Hibernate)**
-- Built a full-fledged e-commerce platform with a dynamic product catalog.
-- Integrated payment processing and warehouse management.
-- Implemented a chatbot for real-time customer assistance.
-
-### **2. Coin CRUD Application (J2EE, Hibernate)**
-- Developed a platform to manage coins with full CRUD operations.
-- Ensured efficient database handling and security using Hibernate.
-
-### **3. Banking Application (Core Java)**
-- Designed a robust core banking solution for secure transactions.
-- Provided a user-friendly interface for simplified banking operations.
 
 ---
 
@@ -80,14 +74,6 @@
 
 ---
 
-## 📫 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/nayankumar-dhome/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Nayankumardhome" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 | My GitHub statistics | My languages | Streaks |
 | - | - | - |
@@ -96,9 +82,15 @@
 ---
 
 ## 👀 Visitors Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Nayankumardhome}/count.svg" />
+</p>
 ![Visitor Count](https://profile-counter.glitch.me/{Nayankumardhome}/count.svg)
 
 ---
 
 ## 😂 Random Joke
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" />
+</p>
 ![Jokes Card](https://readme-jokes.vercel.app/api)

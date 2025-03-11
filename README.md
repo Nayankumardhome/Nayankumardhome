@@ -87,9 +87,11 @@
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
 | My GitHub statistics | My languages |
 | - | - |
 | ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayankumardhome&show_icons=true&theme=dark&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayankumardhome&show_icons=true&theme=dark&layout=compact&hide_title=true) 
+</div>
 
 ---
 

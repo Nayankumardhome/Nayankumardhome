@@ -1,59 +1,57 @@
-<!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Nayankumar Dhome</h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nayankumar-dhome/" target="_blank" rel="noreferrer">Nayankumar</a> is a passionate Java Full Stack Developer from India. Feel free to reach out for any Freelance Projects.</font></h3>
-  
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<h1 align="center">Hi 👋, I'm Nayankumar Dhome</h1>
+<h3 align="center">A Passionate Java Full Stack Developer from India</h3>
 
-<!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
+<img align="right" height="250" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-- I'm looking for an organisation as a full-stack Java developer.
-- I’m looking to collaborate on **Java-based Projects**
+### 👨‍💻 About Me
+- 🚀 I'm looking for opportunities as a **Full-Stack Java Developer**
+- 💡 I’m open to collaborating on **Java-based Projects**
+- 💬 Ask me about **Spring Boot, APIs, Angular, and MySQL**
+- 📫 How to reach me: **[nayankumardhome@example.com](mailto:nayankumardhome@example.com)**
+- ⚡ Fun fact: **I love coding and problem-solving!**
 
-#### Programming Language Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" title="angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" title="jquery" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" title="bootstrap" width="40" height="40"/>
+---
+
+### 🚀 Languages and Tools
+
+#### **Programming Language Stack**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
 </p>
 
-#### Database Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="mysql" width="40" height="40"/>
+#### **Database Stack**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
-#### Dev Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" title="spring" width="40" height="40"/>
-  <img src="https://i.postimg.cc/q701C56G/spring-boot-logo.png" alt="spring boot" title="spring boot" width="40" height="40"/>
-  <img src="https://www.javacodegeeks.com/wp-content/uploads/2014/07/spring-security-project.png.webp" alt="spring-security" title="spring security" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" title="hibernate" width="40" height="40"/>
+#### **Development Stack**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+  <img src="https://i.postimg.cc/q701C56G/spring-boot-logo.png" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40"/>
+  <img src="https://www.javacodegeeks.com/wp-content/uploads/2014/07/spring-security-project.png.webp" alt="Spring Security" width="40" height="40"/>
 </p>
 
-#### Project Management Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" title="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" title="github" width="40" height="40"/>
+#### **Project Management & Version Control**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
-#### Editor / IDE I ♥
-<p align="left">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" title="eclipse" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" title="vscode" width="40" height="40"/>
+#### **Favorite IDEs & Tools**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
-<!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/nayankumar-dhome/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayankumar-dhome" height="30" width="40" /></a>
-</p>
+---
 
-- 💬 Ask me about **Springboot, API's, Angular, Mysql**
-- 📫 How to reach me **[nayankumardhome@example.com](mailto:nayankumardhome@example.com)**
-- ⚡ Fun fact **I love coding and problem-solving**
+### 📫 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/nayankumar-dhome/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a>
+</p>

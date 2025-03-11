@@ -89,10 +89,15 @@
 ---
 
 ## 😂 Random Joke
-<p align="centre"><b> Here is a random joke that'll make you laugh!</b></p>
- 
-![Jokes Card](https://readme-jokes.vercel.app/api)
- 
-<details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
-<br>
-  </p>
+<div align="center">
+  <br>
+  <p align="center"><b> Here is a random joke that'll make you laugh!</b></p>
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+  <details>
+    <summary align="center"> </summary>
+    <p align ="center"> Refresh page to load a new joke</p>
+  </details>
+  <br>
+</div>

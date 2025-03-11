@@ -92,5 +92,7 @@
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" id="joke-img" />
   <br/>
-  <button onclick="document.getElementById('joke-img').src='https://readme-jokes.vercel.app/api?' + new Date().getTime();">Change Joke</button>
+  <a href="https://readme-jokes.vercel.app/api" target="_blank">
+    <img src="https://img.shields.io/badge/Click%20to%20Change%20Joke-blue?style=for-the-badge" alt="Change Joke"/>
+  </a>
 </p>

@@ -87,9 +87,9 @@
 ---
 
 ## 📊 GitHub Stats
-| My GitHub statistics | My languages | Streaks |
-| - | - | - |
-| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayankumardhome&show_icons=true&theme=dark&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayankumardhome&show_icons=true&theme=dark&layout=compact&hide_title=true) | ![GitHub Streak](https://streak-stats.demolab.com/?user=Nayankumardhome&theme=dark) |
+| My GitHub statistics | My languages |
+| - | - |
+| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayankumardhome&show_icons=true&theme=dark&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayankumardhome&show_icons=true&theme=dark&layout=compact&hide_title=true) 
 
 ---
 
